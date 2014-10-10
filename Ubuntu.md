@@ -1,0 +1,32 @@
+On a fresh Ubuntu 14.04 the following was required to get astroid going - but you should be able to get away with less.
+
+Install these packages:
+```
+git
+scons
+g++
+boost1.55-all-dev
+libnotmuch-dev 
+libglibmm-2.4-dev 
+libwebkit-dev 
+libwebkitgtk-3.0 
+libwebkitgtk-3.0-dev 
+libgtkmm-3.0-dev 
+libgmime-2.6-dev
+```
+
+To build:
+```
+$ git clone https://github.com/gauteh/astroid.git # clone repository
+$ cd astroid.git
+$ scons # build
+```
+
+Set up notmuch, astroid will by default look in `~/.mail` for the notmuch database.
+
+To run astroid:
+```
+$ ./astroid
+```
+
+You can configure additionally by editing the file `~/.config/astroid/config`.
