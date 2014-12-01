@@ -10,6 +10,3 @@ Welcome to the astroid wiki!
 
 ### Particular dependencies (list incomplete)
 - GTK+ >= 3.10
-
-### Building
-`$ scons`
