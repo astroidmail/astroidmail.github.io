@@ -1,12 +1,19 @@
 Welcome to the *astroid* wiki!
 
-## Installation (distribution specific)
+## Installation
+
+> Refer to the [Readme](https://github.com/gauteh/astroid/blob/master/README.md) file or [[Ubuntu]].
+
+### Distribution specific information
+
 * [[Arch Linux]]
 * [[Ubuntu]]
 * [[Debian]]
 
-## General compilation and dependencies
-> Have a look at the [Readme](https://github.com/gauteh/astroid/blob/master/README.md) or [[Ubuntu]].
-
-### Particular dependencies (list incomplete)
+### Particular dependencies (incomplete list)
 - GTK+ >= 3.10
+
+## Development
+
+* [[Hacking]]
+* [[Contributing]]
