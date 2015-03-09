@@ -1,11 +1,13 @@
 # Hacking
 
-> Also see [[Contributing]]  
-
-Contributions to Astroid in the form of patches, documentation and testing are very welcome. The discussion will take place on github or on the mailinglists:
+Patches and pull-requests against the [master](https://github.com/gauteh/astroid) branch may be submitted either as a [pull-request](https://github.com/gauteh/astroid/pulls) here on github or as a patch (or series of) to:
 
 * notmuch@notmuchmail.org
 * astroidmail@googlegroups.com
+
+Useful resources on how to contribute to a project using git can be found in the git-book [Contributing to a Project](http://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project), specifically the part about [format-patch](http://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#Public-Project-over-E-Mail) and the [workflow for using different branches](http://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#Public-Project-over-E-Mail) (these will form a pull-request if you choose that path).
+
+Contributions in the form of testing and documentation is also very welcome.
 
 > All contributions must be made under the GNU GPL v3 licence or later.
 
