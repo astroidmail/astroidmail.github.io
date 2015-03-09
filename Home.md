@@ -15,5 +15,4 @@ Welcome to the *astroid* wiki!
 
 ## Development
 
-* [[Hacking]]
 * [[Contributing]]
