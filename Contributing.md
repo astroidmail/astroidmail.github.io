@@ -27,5 +27,4 @@ We use the [Boost Test](http://www.boost.org/doc/libs/1_57_0/libs/test/doc/html/
 1. Install [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
 1. Install [bear](https://github.com/rizsotto/Bear)
 1. Make a `compile_commands.json` file by running: `devel/make_compile_commands.sh` in the source root.
-1. Edit `compilation_database_folder = ''` in [.ycm_extra_conf.py](https://github.com/gauteh/astroid/blob/master/.ycm_extra_conf.py) to read: `compilation_database_folder = DirectoryOfThisScript ()`
-1. To ignore this change to `.ycm_extra_conf.py` [run](http://blog.pagebakers.nl/2009/01/29/git-ignoring-changes-in-tracked-files/): `git update-index --assume-unchanged .ycm_extra_conf.py`
+
