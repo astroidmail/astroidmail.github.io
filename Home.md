@@ -10,6 +10,11 @@ Welcome to the *astroid* wiki!
 * [[Ubuntu]]
 * [[Debian]]
 
+
+### Usage and configuration
+* [[Address completion]]
+
+
 ### Particular dependencies (incomplete list)
 - GTK+ >= 3.10
 
