@@ -1,0 +1,1 @@
+Use e.g. [notifymuch](https://github.com/kspi/notifymuch) to get desktop notifications of new mail.
