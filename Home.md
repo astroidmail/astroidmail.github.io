@@ -13,6 +13,7 @@ Welcome to the *astroid* wiki!
 
 ### Usage and configuration
 * [[Address completion]]
+* [[Desktop notification]]
 
 
 ### Particular dependencies (incomplete list)
