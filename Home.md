@@ -14,6 +14,7 @@ Welcome to the *astroid* wiki!
 ### Usage and configuration
 * [[Address completion]]
 * [[Desktop notification]]
+* [[Customizing the user interface]]
 
 
 ### Particular dependencies (incomplete list)
