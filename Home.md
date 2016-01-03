@@ -12,9 +12,11 @@ Welcome to the *astroid* wiki!
 
 
 ### Usage and configuration
+* [[Polling]]
 * [[Address completion]]
 * [[Desktop notification]]
 * [[Customizing the user interface]]
+* [[Customizing key bindings]]
 
 
 ### Particular dependencies (incomplete list)
