@@ -1,3 +1,3 @@
-You can poll your mail by pressing `P` (by default, bound to `main_window.poll`) which will execute the script found at `~/.config/astroid/poll.sh`.
+You can poll your mail by pressing `P` (by default, bound to `main_window.poll`) which will execute the script found at `~/.config/astroid/poll.sh`. An example script can be found at [examples/](https://github.com/gauteh/astroid/tree/master/examples); if you all need is `offlineimap` and `notmuch new` you can copy this example script at the right location and make it executable.
 
 Automatic polling is controlled by `poll.interval`, and is specified in seconds (typically 160).
