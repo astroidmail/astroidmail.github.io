@@ -10,17 +10,25 @@ Welcome to the *astroid* wiki!
 * [[Ubuntu]]
 * [[Debian]]
 
+### Particular dependencies (incomplete list)
+- GTK+ >= 3.10
 
-### Usage and configuration
+## Setups
+* [[Introduction to notmuch]]
+* [[Astroid setup]]
+
+## Usage
+* [[Indexes and views]]
+* [[Editing and sending]]
+* [[Browsing and organising]]
+
+## Configuration
 * [[Polling]]
 * [[Address completion]]
 * [[Desktop notification]]
 * [[Customizing the user interface]]
 * [[Customizing key bindings]]
 
-
-### Particular dependencies (incomplete list)
-- GTK+ >= 3.10
 
 ## Development
 
