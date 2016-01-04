@@ -19,6 +19,9 @@ Welcome to the *astroid* wiki!
 * [[Polling]]
 
 ## Usage
+
+Once you get Astroid running, press '?' to get a list of key bindings.
+
 * [[Indexes and views]]
 * [[Editing and sending]]
 * [[Browsing and organising]]
