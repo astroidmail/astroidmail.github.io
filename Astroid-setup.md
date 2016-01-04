@@ -25,7 +25,7 @@ You should probably look at the following properties specifically to see if they
 
 ## What your email account is
 
-Some self-explanatory variables that you probably want to configure are:
+Some self-explanatory variables that you probably want to configure are (where `id` is an arbitrary identifier for your email account):
 
 `"accounts.id.name": "Jane Doe"`
 
