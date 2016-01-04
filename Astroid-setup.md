@@ -13,9 +13,13 @@ You should probably look at the following properties specifically to see if they
 Some self-explanatory variables that you probably want to configure are:
 
 `"accounts.id.name": "Jane Doe"`
+
 `"accounts.id.email": "jane.doe@example.org"`
+
 `"accounts.id.gpgkey": "0x000000000"`
+
 `"accounts.id.save_sent_to": "/home/jane/Mail/sent/cur/"`
+
 `"accounts.id.save_drafts_to": "/home/jane/Mail/drafts/"`
 
 # How to send email
