@@ -24,8 +24,8 @@ Welcome to the *astroid* wiki!
 Once you get Astroid running, press '?' to get a list of key bindings.
 
 * [[Indexes and views]]
-* [[Editing and sending]]
 * [[Browsing and organising]]
+* [[Editing and sending]]
 
 ## Configuration
 * [[Address completion]]
