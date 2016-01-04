@@ -1,6 +1,6 @@
 Astroid needs some information to start with. You can setup Astroid, provided you already have notmuch working (if not, see [our introduction to notmuch][notmuchintro].
 
-The configuration for Astroid is found in the `~/.config/astroid/` directory. If does not exist yet, run Astroid for the first time and it will create it for you. The configuration file is in the JSON format.
+The configuration for Astroid is found in the `~/.config/astroid/` directory. If it does not exist yet, run Astroid for the first time and it be created for you. The configuration file is in the JSON format.
 
 # Where to find your mail database
 
