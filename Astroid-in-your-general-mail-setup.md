@@ -5,7 +5,8 @@ A typical mail setup using Astroid can include:
  - [OfflineIMAP] to fetch/sync your mail between your local computer and an email service provider 
  - [notmuch] to index and search your mail
  - [msmtp] to send your mail through your email service provider
- - astroid to read, view, write, modify, organise your mail through a graphical interface.
+ - astroid to read, view, write, modify, organise your mail through a graphical interface
+ - vim or emacs to write and edit email.
 
 [msmtp]: http://msmtp.sourceforge.net/
 [offlineimap]: http://offlineimap.org/
