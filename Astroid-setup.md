@@ -5,6 +5,9 @@ Astroid needs some information to start with. You can setup Astroid, provided yo
 
 Astroid uses the `$XDG_CONFIG_HOME/astroid` directory (or `$HOME/.config/astroid` if it is not set) for storing its configuration file. When you first run astroid it will set up the default configuration file there. This is a JSON file created by [boost::property_tree]. Options not set here will be set to their default values as specified in [`src/config.cc`](https://github.com/gauteh/astroid/blob/master/src/config.cc#L78).
 
+[boost::property_tree]: http://www.boost.org/doc/libs/1_56_0/doc/html/property_tree.html
+
+
 By default astroid looks in `$HOME/.mail` for the notmuch database, but you can change this in the configuration file. You can also set up default queries and accounts for sending e-mail there.
 
 you can run:
@@ -42,4 +45,4 @@ At last, you need to define which program to call to send your email. For instan
 
 ------------------
 
-> Next Step: [Polling your email](./Polling)
+Next Step: [Polling your email](./Polling)
