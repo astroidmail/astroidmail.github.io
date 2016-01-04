@@ -6,7 +6,7 @@ The configuration for Astroid is found in the `~/.config/astroid/` directory. If
 
 You should probably look at the following properties specifically to see if they match your setup:
 
-`"astroid.notmuch.db": "~/.mail"` should point out to the directory where your mail is. This is the same as the `database.path` for [notmuch][notmuchintro].
+`"astroid.notmuch.db": "~/Mail"` should point out to the directory where your mail is. This is the same as the `database.path` for [notmuch][notmuchintro].
 
 # What is your email account
 
