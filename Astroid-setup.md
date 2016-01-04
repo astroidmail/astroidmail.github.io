@@ -8,7 +8,7 @@ You should probably look at the following properties specifically to see if they
 
 `"astroid.notmuch.db": "~/Mail"` should point out to the directory where your mail is. This is the same as the `database.path` for [notmuch][notmuchintro].
 
-# What is your email account
+# What your email account is
 
 Some self-explanatory variables that you probably want to configure are:
 
