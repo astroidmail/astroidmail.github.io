@@ -11,7 +11,7 @@ A typical mail setup using Astroid can include:
 [offlineimap]: http://offlineimap.org/
 [notmuch]: https://notmuchmail.org/
 
-While all these programs (or equivalent programs) need to be setup; once they're configured, you shouldn't need to take about them beyond using astroid.
+While all these programs (or equivalent programs) need to be setup; once they're configured, you shouldn't need to think about them beyond using astroid.
 
 The configuration options may be more or less tedious and complicated, depending on what email service provider you use. For instance, Gmail has a lot of special configuration needed.
 
