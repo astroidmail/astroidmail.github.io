@@ -13,6 +13,6 @@ $ notmuch config set user.other_email jdoe@example.com
 
 See [the documentation for notmuch-config for more details](https://notmuchmail.org/manpages/notmuch-config-1/).
 
-What will be also very useful for you is to define [notmuch hooks](https://notmuchmail.org/manpages/notmuch-hooks-5/) to be automatically applied when notmuch will index your mail to find new mail and changes in your mail database.
+What will be also very useful for you is to define [notmuch hooks](https://notmuchmail.org/manpages/notmuch-hooks-5/) to be automatically applied when notmuch will index your mail to find new mail and or to find changes in your mail database.
 
 Also see <https://notmuchmail.org/initial_tagging/> for more complete approaches to apply automatic tags to your mail.
