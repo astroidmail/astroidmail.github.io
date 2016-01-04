@@ -16,6 +16,7 @@ Welcome to the *astroid* wiki!
 ## Setups
 * [[Introduction to notmuch]]
 * [[Astroid setup]]
+* [[Polling]]
 
 ## Usage
 * [[Indexes and views]]
@@ -23,7 +24,6 @@ Welcome to the *astroid* wiki!
 * [[Browsing and organising]]
 
 ## Configuration
-* [[Polling]]
 * [[Address completion]]
 * [[Desktop notification]]
 * [[Customizing the user interface]]
