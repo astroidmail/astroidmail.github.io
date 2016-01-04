@@ -7,6 +7,6 @@
  * Open a new page for a notmuch search query with `F`
  * Close a page with `x`
  * Switch between "pages" from left to right with `b` and `B`
- * Labels threads by adding or removing tags with `l`
+ * Label threads by adding or removing tags with `l`
 
 As usual, press '?' to get a list of key bindings.
