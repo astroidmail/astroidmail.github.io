@@ -27,3 +27,6 @@ Some self-explanatory variables that you probably want to configure are:
 At last, you need to define which program to call to send your email. For instance, if you use [msmtp](http://msmtp.sourceforge.net/): `"accounts.id.sendmail": "msmtp -t"` 
 
 [notmuchintro]: ./Introduction-to-notmuch
+
+
+> Next Step: [Polling your email](./Polling)
