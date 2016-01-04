@@ -1,4 +1,4 @@
-Astroid needs some information to start with. You can setup Astroid, provided you already have notmuch working (if not, see [our introduction to notmuch][notmuchintro].
+Astroid needs some information to start with. You can setup Astroid, provided you already have notmuch working (if not, see [our introduction to notmuch][notmuchintro]).
 
 The configuration for Astroid is found in the `~/.config/astroid/` directory. If it does not exist yet, run Astroid for the first time and it will be created for you. The configuration file is in the JSON format.
 
