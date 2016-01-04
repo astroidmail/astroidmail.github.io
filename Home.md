@@ -14,6 +14,7 @@ Welcome to the *astroid* wiki!
 - GTK+ >= 3.10
 
 ## Setups
+* [[Astroid in your general mail setup]]
 * [[Introduction to notmuch]]
 * [[Astroid setup]]
 * [[Polling]]
