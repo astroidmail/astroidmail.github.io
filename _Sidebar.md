@@ -5,6 +5,9 @@
 * [[Introduction to notmuch]]
 * [[Astroid setup]]
   + [[Installation]]
+    + [[Arch Linux]]
+    + [[Ubuntu]]
+    + [[Debian]]
 * [[Polling]]
   + [[Desktop notification]]
 
