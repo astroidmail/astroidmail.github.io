@@ -1,6 +1,7 @@
 Welcome to the *astroid* wiki!
 
-## Setups
+## Getting started
+
 * [[Astroid in your general mail setup]]
 * [[Introduction to notmuch]]
 * [[Astroid setup]]
