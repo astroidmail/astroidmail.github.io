@@ -33,7 +33,7 @@ Some self-explanatory variables that you probably want to configure are (where `
 
 `"accounts.id.gpgkey": "0x000000000"`
 
-`"accounts.id.save_sent_to": "/home/jane/Mail/sent/cur/"`
+`"accounts.id.save_sent_to": "/home/jane/Mail/sent/"`
 
 `"accounts.id.save_drafts_to": "/home/jane/Mail/drafts/"`
 
