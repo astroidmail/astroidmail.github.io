@@ -18,6 +18,7 @@ Welcome to the *astroid* wiki!
 * [[Introduction to notmuch]]
 * [[Astroid setup]]
 * [[Polling]]
+  + [[Desktop notification]]
 
 ## Usage
 
@@ -25,15 +26,13 @@ Once you get Astroid running, press '?' to get a list of key bindings.
 
 * [[Indexes and views]]
 * [[Browsing and organising]]
+  + [[Customizing key bindings]]
+  + [[Customizing the user interface]]
 * [[Editing and sending]]
-
-## Configuration
-* [[Address completion]]
-* [[Desktop notification]]
-* [[Customizing the user interface]]
-* [[Customizing key bindings]]
+  +  [[Address completion]]
 
 
-## Development
+
+# Development
 
 * [[Contributing]]
