@@ -10,8 +10,6 @@
 
 ## Usage
 
-Once you get Astroid running, press '?' to get a list of key bindings.
-
 * [[Indexes and views]]
 * [[Browsing and organising]]
   + [[Customizing key bindings]]
