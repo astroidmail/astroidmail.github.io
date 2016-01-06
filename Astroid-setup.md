@@ -25,17 +25,19 @@ You should probably look at the following properties specifically to see if they
 
 ## What your email account is
 
-Some self-explanatory variables that you probably want to configure are (where `id` is an arbitrary identifier for your email account):
+Some self-explanatory variables that you probably want to configure are (where `exampleaccount` is an arbitrary identifier for your email account):
 
-`"accounts.id.name": "Jane Doe"`
-
-`"accounts.id.email": "jane.doe@example.org"`
-
-`"accounts.id.gpgkey": "0x000000000"`
-
-`"accounts.id.save_sent_to": "/home/jane/Mail/sent/"`
-
-`"accounts.id.save_drafts_to": "/home/jane/Mail/drafts/"`
+```json
+"accounts": {
+  "exampleaccount": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.org",
+    "gpgkey": "0x000000000",
+    "save_sent_to": "/home/jane/Mail/sent/cur/",
+    "save_drafts_to": "/home/jane/Mail/drafts/"
+  }
+},
+```
 
 ## How to send email
 
