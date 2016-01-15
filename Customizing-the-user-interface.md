@@ -1,12 +1,17 @@
 ## Thread view
 
-You can copy the original HTML and SCSS file from the [ui/ directory](https://github.com/gauteh/astroid/tree/master/ui) to `~/.config/astroid/ui/` and then customize them to your own needs. Astroid will check if the version is correct (do not change it yourself), in case a new version is released upstream.
+> The thread-view is using Webkit to render the messages, the style and layout can be customized by editing the HTML and SCSS files.
 
-> SCSS works much like CSS, but we preprocess it using [libsass](http://sass-lang.com/libsass).
+You can copy the standard HTML and SCSS file from the [ui/ directory](https://github.com/gauteh/astroid/tree/master/ui) to `~/.config/astroid/ui/` and then customize them to your own needs. Astroid will check if the version is correct (do not change it yourself), in case a new version is released upstream.
 
-You can change font-size, font-family and some other variables by setting the SCSS variables at the top of [thread-view.scss](https://github.com/gauteh/astroid/blob/master/ui/thread-view.scss).
+> SCSS works much like CSS, but it is preprocessed at startup using [libsass](http://sass-lang.com/libsass).
 
-If you only want to change the variables, but still use the default theme, _following_ any updates made upstream the recommended way of customizing the standard variables is to create a `~/.config/astroid/ui/thread-view.scss` file, set the variables, and then include the standard file:
+You can change `font-size`, `font-family` and some other variables for the whole style by just setting the SCSS variables at the top of [thread-view.scss](https://github.com/gauteh/astroid/blob/master/ui/thread-view.scss).
+
+#### The Recommended Way: Only changing the variables, but keeping up-to-date
+If you only want to change the standard variables, but still use the default theme and _follow_ any updates made upstream, create a `~/.config/astroid/ui/thread-view.scss` file, set the variables, and then include the standard file:
+
+> Remember to keep the version line at the top intact!
 
 ```css
 /* ui-version: 2 (do not change when modifying theme for yourself) */
