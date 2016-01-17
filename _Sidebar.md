@@ -4,7 +4,7 @@
 * [[Astroid in your general mail setup]]
 * [[Introduction to notmuch]]
 * [[Astroid setup]]
-  + [[Installation]]
+  + [[Compiling and Installing]]
     + [[Arch Linux]]
     + [[Ubuntu]]
     + [[Debian]]
