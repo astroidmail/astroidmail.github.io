@@ -13,6 +13,7 @@ libwebkitgtk-3.0
 libwebkitgtk-3.0-dev 
 libgtkmm-3.0-dev 
 libgmime-2.6-dev
+libsass-dev
 ```
 
 To build:
