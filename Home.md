@@ -5,7 +5,7 @@ Welcome to the *astroid* wiki!
 * [[Astroid in your general mail setup]]
 * [[Introduction to notmuch]]
 * [[Astroid setup]]
-  + [[Installation]]
+  + [[Compiling and Installing]]
 * [[Polling]]
   + [[Desktop notification]]
 
