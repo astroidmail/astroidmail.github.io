@@ -1,5 +1,10 @@
 Astroid needs some information to start with. You can setup Astroid, provided you already have notmuch working (if not, see [our introduction to notmuch][notmuchintro]).
 
+***
+
+If you have not compiled and installed Astroid yet, refer to: [[Compiling and Installing]].
+
+***
 
 # Configuration
 
