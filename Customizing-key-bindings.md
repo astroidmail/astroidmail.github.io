@@ -8,6 +8,8 @@ main_window.search_tag=/
 
 See [here](https://github.com/aliceriot/dotfiles/blob/master/astroid/keybindings) for an example keybindings file that tries to emulate Sup and Vimium (c for compose, J/K for tab switching, etc).
 
+> Empty lines and lines starting with `#` will be ignored.
+
 ### Unbound targets
 
 There are also unbound targets that you can bind to keys, these are for instance:
