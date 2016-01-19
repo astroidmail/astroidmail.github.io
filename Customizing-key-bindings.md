@@ -7,3 +7,19 @@ main_window.search_tag=/
 ```
 
 See [here](https://github.com/aliceriot/dotfiles/blob/master/astroid/keybindings) for an example keybindings file that tries to emulate Sup and Vimium (c for compose, J/K for tab switching, etc).
+
+### Unbound targets
+
+There are also unbound targets that you can bind to keys, these are for instance:
+
+```
+# thread view
+thread_view.forward_inline=f
+thread_view.forward_attached=M-f
+
+# thread index
+thread_index.forward_inline=f
+thread_index.forward_attached=M-f
+```
+
+this example will overwrite the default keybinding `f` which forwards a message `inlined` or `attached` depending on the configuration option `mail.forward.disposition`. In this particular example the configuration option no longer has any effect, and you choose whether to inline or attach a message depending on the keybinding.
