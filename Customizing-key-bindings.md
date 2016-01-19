@@ -12,7 +12,7 @@ See [here](https://github.com/aliceriot/dotfiles/blob/master/astroid/keybindings
 
 ### Unbound targets
 
-There are also unbound targets that you can bind to keys, these are for instance:
+There are also unbound targets (actions that do not have keybinding by default) that you can bind to keys, these are for instance:
 
 ```
 # thread view
