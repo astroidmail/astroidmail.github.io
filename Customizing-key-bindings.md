@@ -25,3 +25,5 @@ thread_index.forward_attached=M-f
 ```
 
 this example will overwrite the default keybinding `f` which forwards a message `inlined` or `attached` depending on the configuration option `mail.forward.disposition`. In this particular example the configuration option no longer has any effect, and you choose whether to inline or attach a message depending on the keybinding.
+
+Read on to find out how to run custom scripts on keypress and integrate them with Astroid: [[User defined keyboard hooks]].
