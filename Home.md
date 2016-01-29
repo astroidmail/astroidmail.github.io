@@ -1,10 +1,28 @@
 Welcome to the *astroid* wiki!
 
-**Please use the menu on the side to [[get started!|Astroid in your general mail setup]]**
+## Getting started
+
+* [[Astroid in your general mail setup]]
+* [[Introduction to notmuch]]
+* [[Astroid setup]]
+  + [[Compiling and Installing]]
+    + [[Arch Linux]]
+    + [[Ubuntu]]
+    + [[Debian]]
+* [[Polling]]
+  + [[Desktop notification]]
 
 ## Usage
 
-Once you get Astroid running, press '?' to get a list of key bindings.
+* [[Indexes and views]]
+* [[Browsing and organising]]
+  + [[Customizing key bindings]]
+  + [[User defined keyboard hooks]]
+  + [[Customizing the user interface]]
+* [[Editing and sending]]
+  +  [[Address completion]]
+
+
 
 # Development
 
