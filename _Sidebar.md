@@ -16,6 +16,7 @@
 * [[Indexes and views]]
 * [[Browsing and organising]]
   + [[Customizing key bindings]]
+  + [[User defined keyboard hooks]]
   + [[Customizing the user interface]]
 * [[Editing and sending]]
   +  [[Address completion]]
