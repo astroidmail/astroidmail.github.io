@@ -51,6 +51,7 @@ you can add several lines for different tags. A successful exit status (0) will 
 #### Thread Index
 
 > **thread_index.run (cmd %1)=keyspec**
+>
 > Arguments: one
 > - **thread-id** - currently selected thread
 
