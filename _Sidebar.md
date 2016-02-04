@@ -18,6 +18,7 @@
   + [[Customizing key bindings]]
   + [[User defined keyboard hooks]]
   + [[Customizing the user interface]]
+  + [[Opening attachment and virus detection]]
 * [[Editing and sending]]
   +  [[Address completion]]
 
