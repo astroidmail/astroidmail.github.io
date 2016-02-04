@@ -12,7 +12,7 @@ Put in e.g.: `~/.bin/my-xdg-open.sh` and put the full path of the script into th
 # this script requires: libnotify, exo, clamav, inotify-tools
 
 # test for viruses
-if [[ ! clamscan "$1" ]]; then
+if ! clamscan "$1" ; then
   notify-send "Virus detected" "Virus found in attachment, not opening!" --icon=dialog-warning
 
   exit 1
