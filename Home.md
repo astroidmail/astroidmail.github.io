@@ -19,6 +19,7 @@ Welcome to the *astroid* wiki!
   + [[Customizing key bindings]]
   + [[User defined keyboard hooks]]
   + [[Customizing the user interface]]
+  + [[Opening attachments and virus detection]]
 * [[Editing and sending]]
   +  [[Address completion]]
 
