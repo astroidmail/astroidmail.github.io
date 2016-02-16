@@ -14,14 +14,14 @@
 ## Usage
 
 * [[Indexes and views]]
+  + [[Customizing the user interface]]
+  + [[Tagging multiple threads]]
 * [[Browsing and organising]]
   + [[Customizing key bindings]]
   + [[User defined keyboard hooks]]
-  + [[Customizing the user interface]]
   + [[Opening attachments and virus detection]]
 * [[Editing and sending]]
   +  [[Address completion]]
-
 
 
 # Development
