@@ -1,6 +1,7 @@
 Welcome to the *astroid* wiki!
 
 # Tour of Astroid
+
 ## Getting started
 
 * [[Astroid in your general mail setup]]
@@ -29,3 +30,4 @@ Welcome to the *astroid* wiki!
 # Development
 
 * [[Contributing]]
+  + [[Style]]
