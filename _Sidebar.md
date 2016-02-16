@@ -27,3 +27,4 @@
 # Development
 
 * [[Contributing]]
+  + [[Style]]
