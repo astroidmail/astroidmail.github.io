@@ -15,8 +15,8 @@
 
 * [[Indexes and views]]
   + [[Customizing the user interface]]
-  + [[Tagging multiple threads]]
 * [[Browsing and organising]]
+  + [[Tagging multiple threads]]
   + [[Customizing key bindings]]
   + [[User defined keyboard hooks]]
   + [[Opening attachments and virus detection]]
