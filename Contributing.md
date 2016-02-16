@@ -11,8 +11,7 @@ Contributions in the form of testing and documentation is also very welcome.
 
 ## Coding style
 
-* Two spaces for tabs
-* Otherwise, refer to the existing code-base
+Please follow the [[Style]] as well as the general conventions in the source code.
 
 ## Tests
 
