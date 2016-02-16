@@ -1,5 +1,6 @@
 Welcome to the *astroid* wiki!
 
+# Tour of Astroid
 ## Getting started
 
 * [[Astroid in your general mail setup]]
@@ -15,14 +16,14 @@ Welcome to the *astroid* wiki!
 ## Usage
 
 * [[Indexes and views]]
+  + [[Customizing the user interface]]
 * [[Browsing and organising]]
+  + [[Tagging multiple threads]]
   + [[Customizing key bindings]]
   + [[User defined keyboard hooks]]
-  + [[Customizing the user interface]]
   + [[Opening attachments and virus detection]]
 * [[Editing and sending]]
   +  [[Address completion]]
-
 
 
 # Development
