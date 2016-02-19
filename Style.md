@@ -8,18 +8,17 @@ Based on [notmuches STYLE](http://git.notmuchmail.org/git/notmuch/blob/HEAD:/dev
 
 The following nonsense code demonstrates many aspects of the style:
 
-```
-static some_type function (param_type param, param_type param)
-{
-   int i;
+```c++
+static some_type Cls:function (param_type param, param_type param) {
+  int i;
 
-   for (i = 0; i < 10; i++) {
-       int j;
+  for (i = 0; i < 10; i++) {
+    int j;
 
-       j = i + 10;
+    j = i + 10;
 
-       some_other_func (j, i);
-   }
+    some_other_func (j, i);
+  }
 }
 ```
 
