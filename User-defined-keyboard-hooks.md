@@ -11,6 +11,8 @@ thread_index.run(echo %1)=w
 
 if you press `w` in the Thread Index the command `echo %1` will be run with `%1` replaced with the `thread`-id from the _currently_ selected thread. 
 
+> Tip: You can use `hooks::` as a shortcut for `/home/$USER/.config/astroid/hooks/`.
+
 ### Example: Toggle custom tag in Thread Index 
 
 A more useful example is to set up keybindings to toggle custom tags, first create a script that can toggle its given tag. In this example the `queue` tag:
@@ -36,10 +38,10 @@ then create a keybinding in:
 ~/.config/astroid/keybindings:
 ```sh
 # toggle queue
-thread_index.run(/home/gaute/.config/astroid/hooks/toggle queue %1)=w
+thread_index.run(hooks::toggle queue %1)=w
 
 # toggle todo
-thread_index.run(/home/gaute/.config/astroid/hooks/toggle todo %1)=M-t
+thread_index.run(hooks::toggle todo %1)=M-t
 ```
 
 you can add several lines for different tags. A successful exit status (0) will trigger a refresh of the thread in astroid ensuring it is updated in all thread indexes. The command is passed to: [`Glib::spawn_command_line_sync`](https://developer.gnome.org/glibmm/stable/group__Spawn.html#ga75961831b4dd3979bb8ab508ee3b3de7). The argument (`thread`-id) is substituted into the string with [`ustring::compose()`](https://developer.gnome.org/glibmm/stable/classGlib_1_1ustring.html#a18e1242bc0ad8a961a28fb2198392258). 
