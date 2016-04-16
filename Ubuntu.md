@@ -1,11 +1,11 @@
-On a fresh Ubuntu 14.04 the following was required to get astroid going - but you should be able to get away with less.
+On a fresh Ubuntu 15.10 the following was required to get astroid going - but you should be able to get away with less.
 
 Install these packages:
 ```
 git
 scons
 g++
-boost1.55-all-dev
+libboost1.58-all-dev
 libnotmuch-dev 
 libglibmm-2.4-dev 
 libwebkit-dev 
