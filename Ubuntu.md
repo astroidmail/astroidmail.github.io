@@ -23,11 +23,9 @@ $ cd astroid.git
 $ scons # build
 ```
 
-Set up notmuch, astroid will by default look in `~/.mail` for the notmuch database.
+To set up `astroid` and see what other requirements are needed, check out the [[tour|Astroid-in-your-general-mail-setup]].
 
 To run astroid:
 ```
 $ ./astroid
 ```
-
-You can configure additionally by editing the file `~/.config/astroid/config`.
