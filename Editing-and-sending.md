@@ -4,4 +4,4 @@
     <img src="https://raw.githubusercontent.com/gauteh/astroid/master/doc/astroid-compose-code-highlight.png">
   </a>
 
-To change editor, check out [[Customizing editor]].
+To change the editor, check out [[Customizing editor]].
