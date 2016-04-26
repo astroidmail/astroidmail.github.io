@@ -12,6 +12,11 @@ The `editor.cmd` string is passed to `ustring::compose`, and the following argum
 gvim -geom 10x10 --servername %2 --socketid %3 -f -c 'set ft=mail' '+set fileencoding=utf-8' '+set ff=unix' '+set enc=utf-8' %1
 ```
 
+fancy `gvim` with [Goyo](https://github.com/junegunn/goyo.vim) and [Limelight](https://github.com/junegunn/limelight.vim):
+```sh
+gvim -geom 10x10 --servername %2 --socketid %3 -f -c 'set ft=mail' '+set fileencoding=utf-8' '+set enc=utf-8' '+set ff=unix' -c Goyo -c Limelight! %1
+```
+
 ### emacs
 ```sh
 emacs --parent-id %3 %1
