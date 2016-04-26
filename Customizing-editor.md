@@ -27,4 +27,4 @@ emacs --parent-id %3 %1
 st -f 'Monospace' -w %3 -e nvim %1
 ``` 
 
-the [st](http://st.suckless.org/) terminal is used since it supports `XEmbed`.
+the [st](http://st.suckless.org/) terminal is suggested since it supports `XEmbed`.
