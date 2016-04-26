@@ -21,6 +21,7 @@
   + [[User defined keyboard hooks]]
   + [[Opening attachments and virus detection]]
 * [[Editing and sending]]
+  +  [[Customizing editor]]
   +  [[Address completion]]
 
 
