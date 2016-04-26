@@ -22,9 +22,9 @@ gvim -geom 10x10 --servername %2 --socketid %3 -f -c 'set ft=mail' '+set fileenc
 emacs --parent-id %3 %1
 ```
 
-### neovim (through `st`)
+### neovim (through [`st`](http://st.suckless.org/))
 ```sh
-st -f "Monospace" -w %3 -e nvim %1
+st -f 'Monospace' -w %3 -e nvim %1
 ``` 
 
 the [st](http://st.suckless.org/) terminal is used since it supports `XEmbed`.
