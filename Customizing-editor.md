@@ -2,7 +2,7 @@ The default configured editor is `gvim` embedded using [XEmbed](https://specific
 
 The `editor.cmd` string is passed to `ustring::compose`, and the following arguments must be set:
 > _filename_: `%1`  
-> _servername_: `%2` (optional)  
+> _servername_: `%2` (probably optional)  
 > _socketid_: `%3`  
 
 ## Editor suggestions
