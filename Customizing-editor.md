@@ -16,11 +16,13 @@ fancy `gvim` with [Goyo](https://github.com/junegunn/goyo.vim) and [Limelight](h
 ```sh
 gvim -geom 10x10 --servername %2 --socketid %3 -f -c 'set ft=mail' '+set fileencoding=utf-8' '+set enc=utf-8' '+set ff=unix' -c Goyo -c Limelight! %1
 ```
+<img src="https://raw.githubusercontent.com/gauteh/astroid/master/doc/astroid-editor-vim.png" width="70%"/>
 
 ### emacs
 ```sh
 emacs --parent-id %3 %1
 ```
+<img src="https://raw.githubusercontent.com/gauteh/astroid/master/doc/astroid-editor-emacs.png" width="70%"/>
 
 ### neovim (through [`st`](http://st.suckless.org/))
 ```sh
