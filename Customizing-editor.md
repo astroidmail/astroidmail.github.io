@@ -24,6 +24,15 @@ emacs --parent-id %3 %1
 ```
 <img src="https://raw.githubusercontent.com/gauteh/astroid/master/doc/astroid-editor-emacs.png" width="70%"/>
 
+#### Pro-tip: use notmuch-message-mode
+
+You can use the notmuch-message-mode for composing email in emacs by having this in your emacs config file (replace `@localhost` with your machine's hostname):
+
+```el
+(require 'notmuch)
+(add-to-list 'auto-mode-alist '("\\@localhost\\'" . notmuch-message-mode))
+```
+
 ### neovim (through [`st`](http://st.suckless.org/))
 ```sh
 st -f 'Monospace' -w %3 -e nvim %1
