@@ -1,4 +1,4 @@
-## [[Vim|Customizing-editor#vim]]
+## [[Vim|Customizing-editor#gvim]]
 [notmuch-abook](https://github.com/guyzmo/notmuch-abook) can be used to get address completion for the vim editor.
 
 ## [[Emacs|Customizing-editor#emacs]]
