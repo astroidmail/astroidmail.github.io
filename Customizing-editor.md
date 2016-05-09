@@ -38,4 +38,4 @@ You can use the notmuch-message-mode for composing email in emacs by having this
 st -f 'Monospace' -w %3 -e nvim %1
 ``` 
 
-the [st](http://st.suckless.org/) terminal is suggested since it supports `XEmbed`.
+you could use another terminal, but it must support `XEmbed`, like [st](http://st.suckless.org/).
