@@ -19,7 +19,7 @@ libsass-dev
 To build:
 ```
 $ git clone https://github.com/gauteh/astroid.git # clone repository
-$ cd astroid.git
+$ cd astroid
 $ scons # build
 ```
 
