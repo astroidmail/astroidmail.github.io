@@ -2,17 +2,17 @@ On a fresh Ubuntu 15.10 the following was required to get astroid going - but yo
 
 Install these packages:
 ```
-git
-scons
-g++
-libboost1.58-all-dev
-libnotmuch-dev 
-libglibmm-2.4-dev 
-libwebkit-dev 
-libwebkitgtk-3.0 
-libwebkitgtk-3.0-dev 
-libgtkmm-3.0-dev 
-libgmime-2.6-dev
+git \
+scons \
+g++ \
+libboost1.58-all-dev \
+libnotmuch-dev \
+libglibmm-2.4-dev \
+libwebkit-dev \
+libwebkitgtk-3.0 \
+libwebkitgtk-3.0-dev \
+libgtkmm-3.0-dev \
+libgmime-2.6-dev \
 libsass-dev
 ```
 
