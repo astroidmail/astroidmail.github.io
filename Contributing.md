@@ -25,3 +25,30 @@ We use the [Boost Test](http://www.boost.org/doc/libs/1_57_0/libs/test/doc/html/
 1. Install [bear](https://github.com/rizsotto/Bear)
 1. Make a `compile_commands.json` file by running: `devel/make_compile_commands.sh` in the source root.
 
+## How to test a pull request
+
+If you need to test a pull request that fixes some issue or implements a feature, you clone the repository from the author and check out the feature branch:
+```sh
+$ git clone https://github.com/gauteh/astroid # you might have done this already
+$ cd astroid.git
+$ git pull # or git pull --force in case something broke the history
+```
+
+usually you are on the `master` branch. But if you want to check out `feature1` do:
+```sh
+$ git checkout feature1
+$ git pull # maybe add --force
+$ scons # re-build
+```
+
+whenever you have done a new pull, recompile with:
+```sh
+$ scons
+```
+
+to go back to the master branch (or _update_ the master branch) do:
+```sh
+$ git checkout master
+$ git pull # make sure it's up-to-date
+$ scons # recompile master branch
+```
