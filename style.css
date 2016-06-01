@@ -116,18 +116,18 @@ body {
  */
 @media (min-width: 768px) {
   /* Pull out the header and footer */
-  .masthead {
-    position: fixed;
-    top: 0; }
-
-  .mastfoot {
-    position: fixed;
-    bottom: 0; }
-
+  /* .masthead { */
+  /*   position: fixed; */
+  /*   top: 0; */
+  /* } */
+  /* .mastfoot { */
+  /*   position: fixed; */
+  /*   bottom: 0; */
+  /* } */
   /* Start the vertical centering */
-  .site-wrapper-inner {
-    vertical-align: middle; }
-
+  /* .site-wrapper-inner { */
+  /*   vertical-align: middle; */
+  /* } */
   /* Handle the widths */
   .masthead,
   .mastfoot,
@@ -135,12 +135,21 @@ body {
     width: 100%;
     /* Must be percentage or pixels for horizontal alignment */ } }
 @media (min-width: 992px) {
-  .masthead,
-  .mastfoot,
-  .cover-container {
-    width: 700px; } }
+  .masthead .inner,
+  .mastfoot .inner {
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto; } }
 .astroid-content {
+  padding: 0 20px;
   text-align: left;
   font-size: 120%; }
+
+#home {
+  margin-top: 10em;
+  margin-bottom: 15em; }
+
+#features {
+  margin-top: 5em; }
 
 /*# sourceMappingURL=style.css.map */
