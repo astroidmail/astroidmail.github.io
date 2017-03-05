@@ -59,6 +59,9 @@ body {
   margin-top: 10px;
   margin-bottom: 10px; }
 
+.masthead-brand .astroid-logo {
+  max-width: 100%; }
+
 .masthead-nav > li {
   display: inline-block; }
 
