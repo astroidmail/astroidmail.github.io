@@ -1,1 +1,0 @@
-There is a package in AUR: [astroid](https://aur.archlinux.org/packages/astroid/)
